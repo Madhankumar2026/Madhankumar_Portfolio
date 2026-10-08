@@ -16,6 +16,6 @@ npm run build
 npm run preview
 ```
 
-The hero portrait loads from `public/profile.png`. The downloadable PDF resume is in `public/Madhankumar_Vetrivel_Resume.pdf`.
+The hero portrait loads from `public/profile.png`. The downloadable PDF resume is in `public/Madhankumar_SDE.pdf`.
 
 The internship section intentionally avoids adding an employer, role, or dates that were not supplied. Project preview visuals are illustrative concepts, not screenshots; use the GitHub link for repository details.
